@@ -1,7 +1,7 @@
 {
   "rewrites": [
     {
-      "source": "/rifqi",
+      "source": "/rifqi/api",
       "destination": "/rifqi.json"
     }
   ]
