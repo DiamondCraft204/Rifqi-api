@@ -12,7 +12,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Milo ditemukan di dekat pasar saat masih anak kucing. Sekarang ia tumbuh jadi kucing yang sangat playful dan senang dielus di bawah dagu.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan1.jpg"
   },
   {
     "id": 2,
@@ -27,7 +27,7 @@
     "kesehatan": "Sudah vaksin rabies",
     "status": "Tersedia",
     "deskripsi": "Bruno sangat setia dan cepat belajar perintah dasar seperti duduk dan diam. Cocok untuk keluarga dengan halaman rumah.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan2.jpg"
   },
   {
     "id": 3,
@@ -42,7 +42,7 @@
     "kesehatan": "Sudah vaksin, belum steril",
     "status": "Tersedia",
     "deskripsi": "Luna adalah kucing yang cukup pendiam namun sangat manja pada orang yang sudah ia kenal. Betah di dalam rumah.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan3.jpg"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "kesehatan": "Sehat, rutin cek dokter hewan",
     "status": "Sudah Diadopsi",
     "deskripsi": "Kopi kini sudah memiliki rumah baru bersama keluarga di Bandung. Ia betah tinggal di kandang luas dengan banyak mainan kunyah.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan4.jpg"
   },
   {
     "id": 5,
@@ -72,7 +72,7 @@
     "kesehatan": "Sehat, nafsu makan baik",
     "status": "Tersedia",
     "deskripsi": "Rio senang berkicau di pagi hari dan cukup jinak jika sudah terbiasa dengan pemiliknya. Cocok untuk pecinta burung pemula.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan5.jpg"
   },
   {
     "id": 6,
@@ -87,7 +87,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Nala diselamatkan dari pinggir jalan tol dua tahun lalu. Sekarang ia jadi anjing yang sangat protektif namun lembut ke anak-anak.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan6.jpg"
   },
   {
     "id": 7,
@@ -102,7 +102,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Cimut paling aktif menjelang malam. Suka sekali mengumpulkan biji-bijian di kantung pipinya untuk disimpan di sarang.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan7.jpg"
   },
   {
     "id": 8,
@@ -117,7 +117,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Sudah Diadopsi",
     "deskripsi": "Mochi kini tinggal bersama seorang mahasiswa di dekat kampus. Ia senang duduk di atas lemari mengawasi seisi ruangan.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan8.jpg"
   },
   {
     "id": 9,
@@ -132,7 +132,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Jerry paling suka berlari di roda hamster hingga larut malam. Ukurannya kecil sehingga butuh kandang dengan celah rapat.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan9.jpg"
   },
   {
     "id": 10,
@@ -147,7 +147,7 @@
     "kesehatan": "Sehat, rutin potong kuku",
     "status": "Tersedia",
     "deskripsi": "Coco sangat jinak dan tidak takut digendong. Bulu Rex-nya pendek dan lembut sehingga mudah dirawat.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan10.jpg"
   },
   {
     "id": 11,
@@ -162,7 +162,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kiki punya kicauan yang khas dan cukup kalem dibanding burung kenari lain. Nyaman dijadikan teman kerja di rumah.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan11.jpg"
   },
   {
     "id": 12,
@@ -177,7 +177,7 @@
     "kesehatan": "Sudah vaksin pertama",
     "status": "Tersedia",
     "deskripsi": "Simba masih anak anjing yang sangat energik. Cocok untuk keluarga yang punya waktu untuk melatihnya sejak dini.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan12.jpg"
   },
   {
     "id": 13,
@@ -192,7 +192,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Bella memiliki bulu lebat yang membutuhkan penyisiran rutin. Sangat pendiam dan suka bersantai di sofa empuk.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan13.jpg"
   },
   {
     "id": 14,
@@ -207,7 +207,7 @@
     "kesehatan": "Vaksin lengkap, sehat",
     "status": "Tersedia",
     "deskripsi": "Rocky suka bermain lempar tangkap bola dan sangat ramah pada tamu. Memerlukan aktivitas fisik harian.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan14.jpg"
   },
   {
     "id": 15,
@@ -222,7 +222,7 @@
     "kesehatan": "Sehat, bebas kutu",
     "status": "Tersedia",
     "deskripsi": "Snowy berukuran mini dengan telinga pendek yang khas. Senang menjelajahi ruang tamu berkarpet.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan15.jpg"
   },
   {
     "id": 16,
@@ -237,7 +237,7 @@
     "kesehatan": "Sehat, bulu rapi",
     "status": "Tersedia",
     "deskripsi": "Piko sangat cerdas dan senang berinteraksi saat sangkarnya diletakkan di dekat area keluarga berkumpul.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan16.jpg"
   },
   {
     "id": 17,
@@ -252,7 +252,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bubu adalah spesies hamster terkecil dan sangat lincah bergerak di pasir mandi khususnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan17.jpg"
   },
   {
     "id": 18,
@@ -267,7 +267,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Oreo memiliki corak bulu hitam putih yang rapi menyerupai tuxedo. Selalu menyambut siapa pun yang datang ke pintu.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan18.jpg"
   },
   {
     "id": 19,
@@ -282,7 +282,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Sudah Diadopsi",
     "deskripsi": "Choco memiliki tubuh panjang dan kaki pendek yang menggemaskan. Sudah menemukan adopter penyayang di Surabaya.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan19.jpg"
   },
   {
     "id": 20,
@@ -297,7 +297,7 @@
     "kesehatan": "Sehat, gigi terawat",
     "status": "Tersedia",
     "deskripsi": "Fluffy memiliki surai lebat di sekitar leher seperti singa mini. Sangat terbiasa dengan sentuhan tangan manusia.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan20.jpg"
   },
   {
     "id": 21,
@@ -312,7 +312,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Chirpy burung bertubuh mungil dengan suara klakson kecil yang menggemaskan saat memanggil kawanannya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan21.jpg"
   },
   {
     "id": 22,
@@ -327,7 +327,7 @@
     "kesehatan": "Sehat, aktif",
     "status": "Tersedia",
     "deskripsi": "Pikachu sangat jinak dan senang diletakkan di telapak tangan sambil memakan kuaci kesukaannya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan22.jpg"
   },
   {
     "id": 23,
@@ -342,7 +342,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Garfield menghabiskan sebagian besar waktunya tidur di tempat hangat. Sangat menyukai wet food rasa tuna.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan23.jpg"
   },
   {
     "id": 24,
@@ -357,7 +357,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Max sangat cerdas dan cepat memahami instruksi latihan kepatuhan. Butuh pemilik yang tegas dan berpengalaman.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan24.jpg"
   },
   {
     "id": 25,
@@ -372,7 +372,7 @@
     "kesehatan": "Sudah vaksin rutin",
     "status": "Tersedia",
     "deskripsi": "Mimi adalah kucing tiga warna dengan kepribadian manis yang senang tidur melingkar di ujung tempat tidur.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan25.jpg"
   },
   {
     "id": 26,
@@ -387,7 +387,7 @@
     "kesehatan": "Sehat, gigi bagus",
     "status": "Tersedia",
     "deskripsi": "Memiliki ukuran tubuh yang cukup besar dibanding kelinci biasa namun memiliki karakter lembut seperti boneka.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan26.jpg"
   },
   {
     "id": 27,
@@ -402,7 +402,7 @@
     "kesehatan": "Vaksin unggas lengkap",
     "status": "Sudah Diadopsi",
     "deskripsi": "Sunny pandai bersiul irama pendek dan suka bertengger santai di bahu pemiliknya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan27.jpg"
   },
   {
     "id": 28,
@@ -417,7 +417,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Tobi memiliki corak warna hitam legam langka dan senang membuat terowongan rumit dari serbuk kayu bedding.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan28.jpg"
   },
   {
     "id": 29,
@@ -432,7 +432,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Daisy memiliki bulu ikal hipoalergenik yang cocok untuk adopter yang memiliki alergi ringan terhadap bulu hewan.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan29.jpg"
   },
   {
     "id": 30,
@@ -447,7 +447,7 @@
     "kesehatan": "Sudah vaksin",
     "status": "Tersedia",
     "deskripsi": "Simba Jr sangat tangkas menangkap serangga kecil di rumah dan sangat suka tidur siang di jendela hangat.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan30.jpg"
   },
   {
     "id": 31,
@@ -462,7 +462,7 @@
     "kesehatan": "Sehat, vaksin tahunan lengkap",
     "status": "Tersedia",
     "deskripsi": "Milo suka mengendus setiap sudut saat diajak jalan sore. Memerlukan tali kekang yang nyaman saat jalan-jalan.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan31.jpg"
   },
   {
     "id": 32,
@@ -477,7 +477,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Cupcake memiliki telinga floppy khas Mini Lop yang membuatnya tampak selalu tersenyum dan menggemaskan.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan32.jpg"
   },
   {
     "id": 33,
@@ -492,7 +492,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Pipit memiliki pigmen warna kemerahan mencolok dengan kualitas vokal kicauan yang jernih dan bersemangat.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan33.jpg"
   },
   {
     "id": 34,
@@ -507,7 +507,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Nori sangat suka memakan potongan brokoli kering dan menyusun camilannya rapi di sudut rumah kayunya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan34.jpg"
   },
   {
     "id": 35,
@@ -522,7 +522,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Sudah Diadopsi",
     "deskripsi": "Shadow terlihat elegan dengan bulu hitam berkilau. Sudah diadopsi oleh seorang desainer interior di Jakarta Selatan.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan35.jpg"
   },
   {
     "id": 36,
@@ -537,7 +537,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Boni memiliki langkah jalan yang menggemaskan dan sangat menyukai anak-anak. Cepat bersahabat dengan anjing lain.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan36.jpg"
   },
   {
     "id": 37,
@@ -552,7 +552,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bunny mempunyai pola warna khas Dutch Rabbit seperti memakai celana putih. Sangat bersih dan rapi buang air.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan37.jpg"
   },
   {
     "id": 38,
@@ -567,7 +567,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kiwi akan menundukkan kepalanya tanda meminta pemiliknya untuk mengelus bagian tengkuk dan jambulnya perlahan.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan38.jpg"
   },
   {
     "id": 39,
@@ -582,7 +582,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Opal memiliki warna bulu safir keperakan yang sangat cantik dan tidak pernah menggigit jari saat diberi makan.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan39.jpg"
   },
   {
     "id": 40,
@@ -597,7 +597,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Cleo suka mengeong membalas obrolan manusia dengan suara khasnya. Memiliki mata biru cerah yang menawan.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan40.jpg"
   },
   {
     "id": 41,
@@ -612,7 +612,7 @@
     "kesehatan": "Vaksin rabies lengkap",
     "status": "Tersedia",
     "deskripsi": "Zeus bertubuh gagah namun di dalam rumah ia adalah anjing penyayang yang gemar bersandar di kaki pemiliknya.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan41.jpg"
   },
   {
     "id": 42,
@@ -627,7 +627,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bulu Velvet luar biasa lembut menyerupai kain beludru halus. Sangat menyukai sayuran hijau seperti daun selada romaine.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan42.jpg"
   },
   {
     "id": 43,
@@ -642,7 +642,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Mango memiliki warna kuning gradasi merah terang seperti mangga masak. Senang membunyikan lonceng di sangkarnya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan43.jpg"
   },
   {
     "id": 44,
@@ -657,7 +657,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Boba memiliki bulu panjang lebat seperti kapas hitam. Sering tertidur lucu dengan posisi telentang di sudut akuariumnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan44.jpg"
   },
   {
     "id": 45,
@@ -672,7 +672,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Oliver memiliki pipi bulat tembam khas British Shorthair. Sangat jarang mengeong dan lebih suka mengamati aktivitas rumah.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan45.jpg"
   },
   {
     "id": 46,
@@ -687,7 +687,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Sudah Diadopsi",
     "deskripsi": "Kira senang diajak lari pagi dan memiliki kebiasaan mengajak bicara pemiliknya saat waktu makan tiba.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan46.jpg"
   },
   {
     "id": 47,
@@ -702,7 +702,7 @@
     "kesehatan": "Sehat, telinga bersih",
     "status": "Tersedia",
     "deskripsi": "Cotton tampak seperti gumpalan kapas hidup karena seluruh tubuhnya tertutup bulu wol halus yang tebal.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan47.jpg"
   },
   {
     "id": 48,
@@ -717,7 +717,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bluey sangat hobi mandi di wadah air bersih setiap pagi hari lalu berjemur mengeringkan bulu birunya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan48.jpg"
   },
   {
     "id": 49,
@@ -732,7 +732,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Mochi Hamster memiliki motif unik persis boneka panda mini. Sangat suka berlari di dalam roda putarnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan49.jpg"
   },
   {
     "id": 50,
@@ -747,7 +747,7 @@
     "kesehatan": "Sudah steril, sehat prima",
     "status": "Tersedia",
     "deskripsi": "Bagas adalah mantan kucing jalanan yang sekarang sangat menikmati nyamannya tidur di kasur busa setelah diselamatkan.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan50.jpg"
   },
   {
     "id": 51,
@@ -762,7 +762,7 @@
     "kesehatan": "Vaksin & grooming teratur",
     "status": "Tersedia",
     "deskripsi": "Toby anjing pangkuan ideal yang senang menemani pemiliknya membaca buku atau menonton televisi di ruang tengah.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan51.jpg"
   },
   {
     "id": 52,
@@ -777,7 +777,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Pipop sering melakukan gerakan 'binky' (melompat berputar di udara) saat merasa senang dilepas di ruang tamu.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan52.jpg"
   },
   {
     "id": 53,
@@ -792,7 +792,7 @@
     "kesehatan": "Sehat prima",
     "status": "Tersedia",
     "deskripsi": "Zazu bisa meniru bunyi nada dering pesan singkat di ponsel dengan ketukan nada yang sangat mirip.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan53.jpg"
   },
   {
     "id": 54,
@@ -807,7 +807,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Snowball adalah hamster syrian dengan bulu putih bersih yang sangat tenang saat digendong anak-anak.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan54.jpg"
   },
   {
     "id": 55,
@@ -822,7 +822,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Gita memiliki motif tempurung kura-kura yang eksotis dan karakter loyal yang sangat menyayangi adopter utamanya.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan55.jpg"
   },
   {
     "id": 56,
@@ -837,7 +837,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Lucky penuh semangat dan selalu membawa mainan di mulutnya untuk menyambut pemilik pulang kerja.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan56.jpg"
   },
   {
     "id": 57,
@@ -852,7 +852,7 @@
     "kesehatan": "Sehat",
     "status": "Sudah Diadopsi",
     "deskripsi": "Koko memiliki corak titik gelap di hidung dan kaki seperti kucing siam. Sudah diadopsi oleh keluarga di Yogyakarta.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan57.jpg"
   },
   {
     "id": 58,
@@ -867,7 +867,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Melody berdiri tegak dengan postur tubuh besar dan kicauan bertingkat yang merdu untuk mengisi ketenangan rumah.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan58.jpg"
   },
   {
     "id": 59,
@@ -882,7 +882,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kacang berukuran sangat mini dan senang bermain di pipa labirin kandangnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan59.jpg"
   },
   {
     "id": 60,
@@ -897,7 +897,7 @@
     "kesehatan": "Sudah steril, vaksin teratur",
     "status": "Tersedia",
     "deskripsi": "Simona memiliki ekspresi wajah menggemaskan dan butuh sedikit perawatan ekstra pada lipatan hidungnya.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan60.jpg"
   },
   {
     "id": 61,
@@ -912,7 +912,7 @@
     "kesehatan": "Steril & vaksin rabies",
     "status": "Tersedia",
     "deskripsi": "Diesel bertubuh atletis tetapi hatinya sangat manja, suka sekali meletakkan kepalanya di pangkuan saat santai.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan61.jpg"
   },
   {
     "id": 62,
@@ -927,7 +927,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Mimi Kelinci sangat lincah saat jam makannya tiba dan sudah terlatih menggunakan litter box di kandangnya.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan62.jpg"
   },
   {
     "id": 63,
@@ -942,7 +942,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Twitty burung parkit jinak yang suka mematuk dedaunan sawi segar langsung dari tangan pemiliknya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan63.jpg"
   },
   {
     "id": 64,
@@ -957,7 +957,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Chico adalah hamster bertubuh bulat besar yang sangat ramah terhadap pemula maupun anak-anak.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan64.jpg"
   },
   {
     "id": 65,
@@ -972,7 +972,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Leo berbadan besar dengan ekor lebat seperti kemoceng. Memiliki sifat ramah seperti anjing yang selalu mengikuti pemiliknya.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan65.jpg"
   },
   {
     "id": 66,
@@ -987,7 +987,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Sasha memiliki senyum Samoyed yang menular dan kepribadian yang luar biasa ramah terhadap anak-anak maupun kucing.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan66.jpg"
   },
   {
     "id": 67,
@@ -1002,7 +1002,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Ciki senang menyambut orang yang masuk ke ruangan dengan mengendus ujung sepatu dan meminta dielus kepalanya.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan67.jpg"
   },
   {
     "id": 68,
@@ -1017,7 +1017,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Sparky memiliki gradasi warna bulu biola yang sangat indah dan kicauan ceria di siang hari.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan68.jpg"
   },
   {
     "id": 69,
@@ -1032,7 +1032,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Puff menghabiskan waktu sore menata tisu dan bedding kertas menjadi sarang bulat yang sangat nyaman.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan69.jpg"
   },
   {
     "id": 70,
@@ -1047,7 +1047,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Sudah Diadopsi",
     "deskripsi": "Cimot akan melemaskan seluruh tubuhnya tanda percaya penuh saat diangkat ke dalam pelukan manusia.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan70.jpg"
   },
   {
     "id": 71,
@@ -1062,7 +1062,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Bruno Jr adalah anjing yang gagah dan atletis yang sangat menyukai sesi jogging di pagi hari bersama pemilik.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan71.jpg"
   },
   {
     "id": 72,
@@ -1077,7 +1077,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Oreo Kelinci sangat suka bermain puzzle kayu pengasah gigi kelinci dan senang beristirahat di bawah meja.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan72.jpg"
   },
   {
     "id": 73,
@@ -1092,7 +1092,7 @@
     "kesehatan": "Pemulihan tuntas, sehat prima",
     "status": "Tersedia",
     "deskripsi": "Kenzo adalah burung rescue yang kini bulu dan kicauannya telah pulih sempurna. Membutuhkan sangkar luas.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan73.jpg"
   },
   {
     "id": 74,
@@ -1107,7 +1107,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Gembul memiliki tubuh bulat gempal dan bulu mengembang lebat. Karakter tenang membuatnya cocok untuk pemula.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan74.jpg"
   },
   {
     "id": 75,
@@ -1122,7 +1122,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Neko memiliki ekor buntung alami menyerupai bunga mekar dan sangat suka melompat menangkap mainan bulu.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan75.jpg"
   },
   {
     "id": 76,
@@ -1137,7 +1137,7 @@
     "kesehatan": "Vaksin lengkap, rutin potong bulu",
     "status": "Tersedia",
     "deskripsi": "Bams memiliki tampilan seperti rubah mini berbulu tebal yang ceria dan selalu bersemangat saat diajak jalan keluar.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan76.jpg"
   },
   {
     "id": 77,
@@ -1152,7 +1152,7 @@
     "kesehatan": "Telinga bersih & sehat",
     "status": "Tersedia",
     "deskripsi": "Dumbo memiliki telinga ekstra panjang yang menjuntai anggun. Karakter sangat pasif dan ramah terhadap siapa pun.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan77.jpg"
   },
   {
     "id": 78,
@@ -1167,7 +1167,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Sunny Bird memiliki corak kebiruan elegan dan terbiasa dengan sangkar yang bersih dan terang.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan78.jpg"
   },
   {
     "id": 79,
@@ -1182,7 +1182,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Chimi sangat menyukai biji labu sebagai treats saat sesi menjinakkan di tangan adopter.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan79.jpg"
   },
   {
     "id": 80,
@@ -1197,7 +1197,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Kitty adalah kucing bertipe point Himalaya dengan bola mata biru gelap yang menatap penuh kasih sayang.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan80.jpg"
   },
   {
     "id": 81,
@@ -1212,7 +1212,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Rex memiliki postur ramping bertenaga dan naluri penjagaan tinggi terhadap hunian dan penghuninya.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan81.jpg"
   },
   {
     "id": 82,
@@ -1227,7 +1227,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Mochi Kelinci berambut surai halus di lehernya dan gemar melompat ke atas alas kain di dalam kandangnya.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan82.jpg"
   },
   {
     "id": 83,
@@ -1242,7 +1242,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Ciki Burung suka melakukan aksi akrobatik bergelantungan terbalik di ayunan sangkarnya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan83.jpg"
   },
   {
     "id": 84,
@@ -1257,7 +1257,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kiko sangat rajin membersihkan bulunya di wadah mandi pasir khusus hamster dan sangat menyukai jagung manis rebus.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan84.jpg"
   },
   {
     "id": 85,
@@ -1272,7 +1272,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Bulan memiliki kebiasaan unik suka bermain dengan tetesan air wastafel dan sangat ramah pada tamu baru.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan85.jpg"
   },
   {
     "id": 86,
@@ -1287,7 +1287,7 @@
     "kesehatan": "Vaksin anak lengkap",
     "status": "Tersedia",
     "deskripsi": "Milo Puppy bertubuh mungil dan senang diajak jalan-jalan memakai gendongan tas khusus anjing kecil.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan86.jpg"
   },
   {
     "id": 87,
@@ -1302,7 +1302,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Boni Kelinci sangat tahan terhadap suara bising rumah tangga dan tidak mudah terkejut saat diajak bermain.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan87.jpg"
   },
   {
     "id": 88,
@@ -1317,7 +1317,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Koko Bird memiliki pola warna elegan seperti Batman dan menyukai ranting kayu alami untuk latihan paruhnya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan88.jpg"
   },
   {
     "id": 89,
@@ -1332,7 +1332,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Didi sangat mudah dijinakkan dan senang merayap ke lengan pakaian pemilik saat diajak berinteraksi.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan89.jpg"
   },
   {
     "id": 90,
@@ -1347,7 +1347,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Cici memiliki naluri keibuan yang tinggi dan sering merawat anak-anak kucing rescue lain di shelter.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan90.jpg"
   },
   {
     "id": 91,
@@ -1362,7 +1362,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Jack memiliki stamina tanpa batas dan sangat cocok bagi adopter yang hobi jogging atau agility training.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan91.jpg"
   },
   {
     "id": 92,
@@ -1377,7 +1377,7 @@
     "kesehatan": "Sehat, kuku rutin dipotong",
     "status": "Tersedia",
     "deskripsi": "Pompom tampak seperti gumpalan benang wol berjalan yang gemar berbaring santai di dekat tempat makannya.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan92.jpg"
   },
   {
     "id": 93,
@@ -1392,7 +1392,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Nuri menyukai sangkar dengan ventilasi baik dan gemar memakan sayuran sawi sendok rebus tanpa garam.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan93.jpg"
   },
   {
     "id": 94,
@@ -1407,7 +1407,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kimi memiliki corak bercak putih kecil di bagian dadanya menyerupai dasi kupu-kupu yang sangat manis.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan94.jpg"
   },
   {
     "id": 95,
@@ -1422,7 +1422,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Bams Kucing memiliki sorot mata hijau giok yang memukau dan ikatan yang sangat kuat dengan pemilik utamanya.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan95.jpg"
   },
   {
     "id": 96,
@@ -1437,7 +1437,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Piko Dog berukuran saku tetapi memiliki pendengaran sangat tajam dan sigap mengabari jika ada paket tiba.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan96.jpg"
   },
   {
     "id": 97,
@@ -1452,7 +1452,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Lili cocok untuk adopter yang mencari hewan pendiam untuk tinggal di apartemen atau rumah minimalis.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan97.jpg"
   },
   {
     "id": 98,
@@ -1467,7 +1467,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Tweety Jr terbiasa hinggap di jari telunjuk saat pemiliknya menyodorkan tangkai milet merah kesukaannya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan98.jpg"
   },
   {
     "id": 99,
@@ -1482,7 +1482,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Niko sangat menyukai bedding serbuk kertas tebal untuk menggali labirin tersembunyi sebagai tempat tidur siangnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan99.jpg"
   },
   {
     "id": 100,
@@ -1497,7 +1497,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Tora memiliki motif eksotis seperti macan tutul mini dan sangat membutuhkan tiang cakaran (cat tree) tinggi.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan100.jpg"
   },
   {
     "id": 101,
@@ -1512,7 +1512,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Bella Dog memiliki mata bulat teduh dan sangat sabar saat diajak bermain boneka oleh anak-anak di rumah.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan101.jpg"
   },
   {
     "id": 102,
@@ -1527,7 +1527,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kimi Kelinci akan menutup mata dengan rileks saat dahinya digaruk lembut di sela-sela waktu bersantainya.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan102.jpg"
   },
   {
     "id": 103,
@@ -1542,7 +1542,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Choco Bird memiliki warna dahi merah muda salem yang manis dan gemar menyanyikan kicauan riang.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan103.jpg"
   },
   {
     "id": 104,
@@ -1557,7 +1557,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Momo langsung memanjat ke tangan yang diletakkan di dalam kandang dan senang dielus punggungnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan104.jpg"
   },
   {
     "id": 105,
@@ -1572,7 +1572,7 @@
     "kesehatan": "Vaksin & steril tuntas",
     "status": "Tersedia",
     "deskripsi": "Snoopy adalah anjing yang sangat ekspresif dengan telinga panjang menjuntai dan kepribadian ceria tak terbatas.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan105.jpg"
   },
   {
     "id": 106,
@@ -1587,7 +1587,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Chibi memiliki langkah kaki pendek yang lucu namun tetap sangat lincah saat mengejar laser pointer mainan.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan106.jpg"
   },
   {
     "id": 107,
@@ -1602,7 +1602,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Oreo Hamster adalah pelari malam ulung yang membutuhkan roda putar dengan bantalan senyap berdiameter 20cm.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan107.jpg"
   },
   {
     "id": 108,
@@ -1617,7 +1617,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bubbles memiliki corak warna chinchilla langka dengan bulu tegak pendek yang sangat menyenangkan untuk dibelai.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan108.jpg"
   },
   {
     "id": 109,
@@ -1632,7 +1632,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Pepe burung parkit berparas cerah yang pandai merespon siulan pemilik dengan lompatan girang di tenggerannya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan109.jpg"
   },
   {
     "id": 110,
@@ -1647,7 +1647,7 @@
     "kesehatan": "Sudah steril, sendi terpantau sehat",
     "status": "Tersedia",
     "deskripsi": "Moli sering duduk dengan pose 'Buddha position' bersandar di sofa sambil mengamati orang di sekitarnya.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan110.jpg"
   },
   {
     "id": 111,
@@ -1662,7 +1662,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Thor memiliki perawakan gagah namun sifatnya luar biasa bersahabat dan suka tidur mendengkur di karpet hangat.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan111.jpg"
   },
   {
     "id": 112,
@@ -1677,7 +1677,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Poki sangat rajin memindahkan makanan dari mangkuk ke kamar tidurnya sebelum mulai tidur siang panjang.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan112.jpg"
   },
   {
     "id": 113,
@@ -1692,7 +1692,7 @@
     "kesehatan": "Sehat prima",
     "status": "Tersedia",
     "deskripsi": "Boni Bird memiliki corak bulu violet langka yang memantulkan kilau indah saat terkena sinar matahari pagi.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan113.jpg"
   },
   {
     "id": 114,
@@ -1707,7 +1707,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Milo Rabbit memiliki kontras warna hitam dan tembaga yang tajam serta karakter aktif yang menyenangkan.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan114.jpg"
   },
   {
     "id": 115,
@@ -1722,7 +1722,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Kiko Kucing berbulu tebal tahan air dengan surai leher indah. Sangat tenang dan tidak mudah merasa panik.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan115.jpg"
   },
   {
     "id": 116,
@@ -1737,7 +1737,7 @@
     "kesehatan": "Vaksin rutin, napas lancar",
     "status": "Tersedia",
     "deskripsi": "Cookie selalu mengikuti pemiliknya ke mana pun di dalam rumah dan gemar tidur dengan mendengkur halus.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan116.jpg"
   },
   {
     "id": 117,
@@ -1752,7 +1752,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Choco Hamster memiliki bulu coklat legam seragam dan sangat menikmati interaksi tangan saat jam makan malam.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan117.jpg"
   },
   {
     "id": 118,
@@ -1767,7 +1767,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Snowy Bird berpenampilan seputih salju dan sangat menyukai lingkungan rumah yang bersih serta tenang.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan118.jpg"
   },
   {
     "id": 119,
@@ -1782,7 +1782,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kuki bertubuh kerdil dengan bulu wol panjang yang mudah disisir. Sangat betah dipangku berlama-lama.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan119.jpg"
   },
   {
     "id": 120,
@@ -1797,7 +1797,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Panda memiliki corak hitam unik di sekitar matanya yang membuatnya tampak seperti boneka panda kecil.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan120.jpg"
   },
   {
     "id": 121,
@@ -1812,7 +1812,7 @@
     "kesehatan": "Vaksin lengkap & steril",
     "status": "Tersedia",
     "deskripsi": "Bailey adalah sahabat keluarga sempurna yang selalu menjaga langkahnya saat berada di dekat balita.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan121.jpg"
   },
   {
     "id": 122,
@@ -1827,7 +1827,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Zorro tampak gagah dengan corak hitam di area mata menyerupai topeng tokoh Zorro legendaris.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan122.jpg"
   },
   {
     "id": 123,
@@ -1842,7 +1842,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Tutu sangat tangkas dan menyukai terowongan bambu alami sebagai media pengayaan di kandangnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan123.jpg"
   },
   {
     "id": 124,
@@ -1857,7 +1857,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kimi Bird memiliki corak biru gelap mencolok dan suka bernyanyi sambil melihat pantulan di mainan cerminnya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan124.jpg"
   },
   {
     "id": 125,
@@ -1872,7 +1872,7 @@
     "kesehatan": "Sehat prima",
     "status": "Tersedia",
     "deskripsi": "Cinnamon memiliki corak warna kayu manis yang langka dan sangat menyukai belaian lembut dari kepala hingga punggung.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan125.jpg"
   },
   {
     "id": 126,
@@ -1887,7 +1887,7 @@
     "kesehatan": "Vaksin lengkap",
     "status": "Tersedia",
     "deskripsi": "Ollie memiliki kumis dan jenggot lebat yang khas. Sangat cepat belajar trik baru seperti bersalaman dan berguling.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan126.jpg"
   },
   {
     "id": 127,
@@ -1902,7 +1902,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Latte memiliki warna lembut menyerupai kopi susu dan gemar mendengkur pelan saat dipangku sambil disisir.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan127.jpg"
   },
   {
     "id": 128,
@@ -1917,7 +1917,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Piko Hamster memiliki sifat santai yang cocok dijadikan hewan peliharaan pertama bagi anak usia sekolah.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan128.jpg"
   },
   {
     "id": 129,
@@ -1932,7 +1932,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Ruby selalu menyambut fajar dengan suara kicauan riang yang mengisi ruangan dengan keceriaan.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan129.jpg"
   },
   {
     "id": 130,
@@ -1947,7 +1947,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Snowy Kelinci berukuran super mini dengan telinga pendek tegak yang selalu tampak waspada dan anggun.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan130.jpg"
   },
   {
     "id": 131,
@@ -1962,7 +1962,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Hunter memiliki inteligensi luar biasa dan mampu mengenali nama berbagai macam mainannya secara akurat.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan131.jpg"
   },
   {
     "id": 132,
@@ -1977,7 +1977,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Koko Cat memiliki fisik ramping lincah dan gemar bertengger di pundak adopter seperti burung beo.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan132.jpg"
   },
   {
     "id": 133,
@@ -1992,7 +1992,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Ciki Hamster suka menyembunyikan biji-bijian di bawah bedding sebelum diajak bermain keluar.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan133.jpg"
   },
   {
     "id": 134,
@@ -2007,7 +2007,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Kaka memiliki jambul bundar menutupi dahi menyerupai potongan rambut mangkok yang sangat ikonik.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan134.jpg"
   },
   {
     "id": 135,
@@ -2022,7 +2022,7 @@
     "kesehatan": "Vaksin & tes pendengaran normal",
     "status": "Tersedia",
     "deskripsi": "Milo Big memiliki corak totol hitam menawan dan stamina prima untuk menemani aktivitas luar ruangan Anda.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan135.jpg"
   },
   {
     "id": 136,
@@ -2037,7 +2037,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Gula memiliki sifat lembut dan senang bersandar di samping bantal saat pemiliknya sedang bersantai.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan136.jpg"
   },
   {
     "id": 137,
@@ -2052,7 +2052,7 @@
     "kesehatan": "Sudah steril",
     "status": "Tersedia",
     "deskripsi": "Timmy memiliki motif garis spiral perak yang tegas di badannya dan sangat mudah akrab dengan anjing maupun kelinci.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan137.jpg"
   },
   {
     "id": 138,
@@ -2067,7 +2067,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Bubu Hamster menyukai batok kelapa berlubang sebagai rumah peristirahatan alami di dalam kandangnya.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan138.jpg"
   },
   {
     "id": 139,
@@ -2082,7 +2082,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Rio Parkit sangat aktif berayun di tali mainan sangkar dan senang menyambut orang yang melewatinya.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan139.jpg"
   },
   {
     "id": 140,
@@ -2097,7 +2097,7 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Mocha tampak seperti boneka beruang berbulu lebat yang selalu mengawasi pintu rumah dengan tenang.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan140.jpg"
   },
   {
     "id": 141,
@@ -2112,7 +2112,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Panda Kelinci sudah terbiasa dengan disiplin litter box dan tidak pernah mengotori sudut ruangan lain.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan141.jpg"
   },
   {
     "id": 142,
@@ -2127,7 +2127,7 @@
     "kesehatan": "Sudah vaksin & steril",
     "status": "Tersedia",
     "deskripsi": "Chiko Cat memiliki warna coklat cokelat polos langka dan gemar tidur melingkar di bawah selimut hangat.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan142.jpg"
   },
   {
     "id": 143,
@@ -2142,7 +2142,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Nala Hamster sangat kalem saat diajak berfoto di telapak tangan tanpa berusaha melarikan diri.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan143.jpg"
   },
   {
     "id": 144,
@@ -2157,7 +2157,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Piko Falk memiliki pola mutiara indah di sayapnya dan akan bersuara lirih memanggil saat ingin dielus.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan144.jpg"
   },
   {
     "id": 145,
@@ -2172,7 +2172,7 @@
     "kesehatan": "Vaksin & steril tuntas",
     "status": "Tersedia",
     "deskripsi": "Balto adalah anjing pelindung besar yang sangat suka bersantai di ruangan ber-AC atau lantai keramik sejuk.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan145.jpg"
   },
   {
     "id": 146,
@@ -2187,7 +2187,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Berry memiliki warna tortie abu lembut dengan sifat periang yang senang berlari keliling karpet ruang tamu.",
-    "gambar": "assets/images/kelinci.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan146.jpg"
   },
   {
     "id": 147,
@@ -2202,7 +2202,7 @@
     "kesehatan": "Sudah steril & vaksin",
     "status": "Tersedia",
     "deskripsi": "Sammy memiliki sorot mata oranye tembaga kontras dengan bulu birunya dan kepribadian tenang yang damai.",
-    "gambar": "assets/images/kucing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan147.jpg"
   },
   {
     "id": 148,
@@ -2217,7 +2217,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Jerry Syrian suka menyusun balok jerami dan sangat menikmati sesi bermain di kandang berukuran luas.",
-    "gambar": "assets/images/hamster.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan148.jpg"
   },
   {
     "id": 149,
@@ -2232,7 +2232,7 @@
     "kesehatan": "Sehat",
     "status": "Tersedia",
     "deskripsi": "Boni Falk memiliki variasi mutasi muka putih tanpa pipi oranye dan sangat mahir bersiul lagu pembuka kartun.",
-    "gambar": "assets/images/burung.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan149.jpg"
   },
   {
     "id": 150,
@@ -2247,6 +2247,6 @@
     "kesehatan": "Vaksin lengkap, steril",
     "status": "Tersedia",
     "deskripsi": "Bona adalah anjing penyelamat yang kini penuh kebahagiaan dan siap memberikan cinta tanpa batas untuk adopter barunya.",
-    "gambar": "assets/images/anjing.svg"
+    "gambar": "https://ik.imagekit.io/xcb21k7km/hewan/hewan150.jpg"
   }
 ]
