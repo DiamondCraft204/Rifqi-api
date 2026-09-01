@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masuk / Daftar - WesterHome</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header>
+        <div class="judul">
+            <img src="../assets/logo-hewan.png" alt="logo hewan">
+            <span id="teks-judul">WesterHome</span>
+        </div>
+        <span id="tombol-menu">&#8942;</span>
+        <nav>
+            <a href="../index.html">Beranda</a>
+            <a href="./daftar-hewan.html">Daftar Hewan</a>
+            <a href="./riwayat.html">Riwayat</a>
+            <a href="./tentang.html">Tentang Kami</a>
+            <a href="./kontak.html">Kontak</a>
+        </nav>
+        <a href="./login.html" id="tombol">Masuk</a>
+    </header>
+    <main>
+        <div class="wadah-login">
+            <div id="wadah-form-login">
+                <h1 class="judul-login">Selamat Datang Kembali</h1>
+                <p class="ket-login">Masuk untuk mulai mengadopsi sahabat barumu.</p>
+                <form id="form-login">
+                    <div class="grup-input">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" required placeholder="Masukkan email kamu">
+                    </div>
+                    <div class="grup-input">
+                        <label for="password">Kata Sandi</label>
+                        <input type="password" id="password" required placeholder="Masukkan kata sandi">
+                    </div>
+                    <button type="submit" class="tombol-submit">Masuk Sekarang</button>
+                </form>
+                <p class="tautan-bawah">Belum punya akun? <a href="#" id="link-ke-daftar">Daftar sekarang</a></p>
+            </div>
+
+            <div id="wadah-form-daftar">
+                <h1 class="judul-login">Buat Akun Baru</h1>
+                <p class="ket-login">Bergabunglah bersama kami dan temukan sahabat barumu.</p>
+                <form id="form-daftar">
+                    <div class="grup-input">
+                        <label for="nama-daftar">Nama Lengkap</label>
+                        <input type="text" id="nama-daftar" required placeholder="Masukkan nama kamu">
+                    </div>
+                    <div class="grup-input">
+                        <label for="email-daftar">Email</label>
+                        <input type="email" id="email-daftar" required placeholder="Masukkan email kamu">
+                    </div>
+                    <div class="grup-input">
+                        <label for="password-daftar">Kata Sandi</label>
+                        <input type="password" id="password-daftar" required placeholder="Buat kata sandi">
+                    </div>
+                    <button type="submit" class="tombol-submit">Daftar Sekarang</button>
+                </form>
+                <p class="tautan-bawah">Sudah punya akun? <a href="#" id="link-ke-login">Masuk di sini</a></p>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="footer-container">
+            <div class="footer-col-1">
+                <div class="footer-logo">
+                    <img src="../assets/logo-hewan.png" alt="logo hewan">
+                    <span>WesterHome</span>
+                </div>
+                <p>Menghubungkan hewan terlantar dengan rumah yang siap merawat mereka.</p>
+            </div>
+            <div class="footer-col">
+                <h3>Jelajahi</h3>
+                <a href="./daftar-hewan.html">Daftar Hewan</a>
+                <a href="./daftar-hewan.html">Ajukan Adopsi</a>
+                <a href="./riwayat.html">Riwayat Adopsi</a>
+            </div>
+            <div class="footer-col">
+                <h3>Lainnya</h3>
+                <a href="./tentang.html">Tentang Kami</a>
+                <a href="./kontak.html">Kontak</a>
+            </div>
+        </div>
+        <div class="footer-bawah">
+            <p>&copy; 2026 WesterHome. Dibuat untuk proyek pelatihan web.</p>
+        </div>
+    </footer>
+    <script src="../js/script.js"></script>
+</body>
+</html>
