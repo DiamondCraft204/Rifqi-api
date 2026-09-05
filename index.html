@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- mengatur tipe karakter supaya mendukung semua jenis teks -->
+    <meta charset="UTF-8">
+    <!-- supaya tampilan website bisa menyesuaikan dengan ukuran layar hp atau laptop -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- ini judul yang bakal muncul di atas tab browser -->
+    <title>WesterHome - Adopsi Hewan</title>
+    <!-- untuk menghubungkan ke file css nya -->
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <!-- header berfungsi untuk bagian paling atas website yang nampilin logo dan menu-menu link -->
+    <header>
+        <!-- untuk logo gambar dan nama website -->
+        <div class="logo-header">
+            <img src="./assets/logo-hewan.png" alt="logo hewan">
+            <span id="teks-logo-header">WesterHome</span>
+        </div>
+        <!-- untuk tombol garis tiga yang cuma muncul kalau dibuka di layar hp -->
+        <span id="tombol-hamburger"></span>
+        <!-- untuk daftar link navigasi buat pindah-pindah halaman -->
+        <nav>
+            <a href="./index.html" id="menu-aktif">Beranda</a>
+            <a href="./html/daftar-hewan.html">Daftar Hewan</a>
+            <a href="./html/riwayat.html">Riwayat</a>
+            <a href="./html/tentang.html">Tentang Kami</a>
+            <a href="./html/kontak.html">Kontak</a>
+        </nav>
+        <!-- untuk tombol khusus buat pergi ke halaman masuk atau login -->
+        <a href="./html/login.html" id="tombol-login-header">Masuk</a>
+    </header>
+    
+    <!-- tag main dari halaman beranda dibungkus biar ada jaraknya per masing-masing tag -->
+    <main>
+        <!-- sebagai pembungkus untuk per masing-masing tag -->
+        <section>
+            <article class="tema">
+                <div class="sub-judul-beranda">Living Things Komunitas - 2012</div>
+                <!-- supaya judul nya satu paragraf dengan gambar nya -->
+                <div class="judul-beranda">Cinta Tanpa Syarat, Sahabat Sepanjang Hayat
+                    <img src="./assets/foto-beranda.png" alt="Foto-Kucing">
+                </div>
+                <p class="deskripsi-beranda">WesternHome mempertemukan kucing, anjing, kelinci, burung, dan hamster yang butuh keluarga dengan orang-orang yang siap merawat mereka seumur hidup.</p>
+            </article>
+            <article class="tema-nav">
+                <!-- digunakan untuk tombol lihat daftar hewan atau ke halaman tentang kami -->
+                <p class="wadah-tombol-hero">
+                    <a href="./html/daftar-hewan.html" id="tombol-utama-hero">Lihat Hewan Tersedia</a>
+                    <a href="./html/tentang.html">Kenali Kami</a>
+                </p>
+            </article>
+        </section>
+        
+        <!-- bagian nampilin angka-angka statistik dari platform adopsi ini -->
+        <section class="statistik-platform">
+            <!-- di isi angka nol supaya bisa kita ubah angkanya dengan jumlah data pada api yang berada di js -->
+            <article class="item-statistik">
+                <h2 id="angka-total-hewan">0</h2>
+                <p>Total hewan terdata</p>
+            </article>
+            <article class="item-statistik">
+                <h2 id="angka-siap-adopsi">0</h2>
+                <p>Siap diadopsi</p>
+            </article>
+            <article class="item-statistik">
+                <h2 id="angka-sudah-adopsi">0</h2>
+                <p>Sudah dapat rumah</p>
+            </article>
+            <article class="item-statistik">
+                <h2 id="angka-jenis-hewan">0</h2>
+                <p>Jenis hewan berbeda</p>
+            </article>
+        </section>
+        
+        <!-- untuk penjelasan alasan kenapa orang harus adopsi hewan di sini -->
+        <section>
+            <p class="sub-judul-alasan">Kenapa hewan harus diadopsi?</p>
+            <p class="judul-alasan">Satu keputusan, dua kehidupan yang berubah.</p>
+            <div class="wadah-kotak-alasan">
+                <!-- kotak-kotak kecil berisi poin-poin alasan -->
+                <article class="kotak-alasan">
+                    <div class="nomor-alasan">01</div>
+                    <div class="judul-kotak-alasan">Selamatkan nyawa</div>
+                    <div class="deskripsi-kotak-alasan">Setiap hewan yang diadopsi membuka ruang bagi shelter menyelamatkan satu lagi hewan terlantar.</div>
+                </article>
+                <article class="kotak-alasan">
+                    <div class="nomor-alasan">02</div>
+                    <div class="judul-kotak-alasan">Sudah diperiksa kesehatan</div>
+                    <div class="deskripsi-kotak-alasan">Seluruh hewan di WesterHome sudah melalui pemeriksaan dasar, sebagian sudah divaksin dan steril.</div>
+                </article>
+                <article class="kotak-alasan">
+                    <div class="nomor-alasan">03</div>
+                    <div class="judul-kotak-alasan">Pendampingan setelah adopsi</div>
+                    <div class="deskripsi-kotak-alasan">Tim kami tetap bisa dihubungi untuk konsultasi ringan setelah hewan resmi tinggal di rumah baru.</div>
+                </article>
+                <article class="kotak-alasan">
+                    <div class="nomor-alasan">04</div>
+                    <div class="judul-kotak-alasan">Biaya adopsi terjangkau</div>
+                    <div class="deskripsi-kotak-alasan">Fokus kami adalah kecocokan keluarga dan hewan, bukan keuntungan dari proses adopsi.</div>
+                </article>
+            </div>
+        </section>
+        
+        <!-- untuk nampilin sekilas beberapa hewan yang baru masuk dan siap adopsi -->
+        <section>
+            <p class="teks-kategori-hewan">BARU MASUK SHELTER</p>
+            <div class="wadah-judul-daftar">
+                <h2 class="judul-daftar-hewan">Hewan yang siap diadopsi minggu ini</h2>
+                <!-- digunakan untuk tombol pintasan ke halaman semua daftar hewan -->
+                <a href="./html/daftar-hewan.html" class="tombol-lihat-semua">Lihat Semua</a>
+            </div>
+            
+            <!-- digunakan untuk sebagai wadah kosong yang bakal diisi sama kartu-kartu hewan secara otomatis dari js -->
+            <div class="wadah-kartu-hewan" id="grid-hewan-beranda"></div>
+        </section>
+    </main>
+
+    <!-- bagian paling bawah website (footer) buat naruh info hak cipta dan link tambahan -->
+    <footer>
+        <div class="wadah-utama-footer">
+            <div class="kolom-kiri-footer">
+                <div class="logo-teks-footer">
+                    <img src="./assets/logo-hewan.png" alt="logo hewan">
+                    <span>WesterHome</span>
+                </div>
+                <p>Menghubungkan hewan terlantar dengan rumah yang siap merawat mereka.</p>
+            </div>
+            <div class="kolom-link-footer">
+                <h3>Jelajahi</h3>
+                <a href="./html/daftar-hewan.html">Daftar Hewan</a>
+                <a href="./html/daftar-hewan.html">Ajukan Adopsi</a>
+                <a href="./html/riwayat.html">Riwayat Adopsi</a>
+            </div>
+            <div class="kolom-link-footer">
+                <h3>Lainnya</h3>
+                <a href="./html/tentang.html">Tentang Kami</a>
+                <a href="./html/kontak.html">Kontak</a>
+            </div>
+        </div>
+        <!-- teks copyright paling ujung bawah biar lebih keren aja :v -->
+        <div class="wadah-hakcipta-footer">
+            <p>&copy; 2026 WesterHome. Dibuat untuk proyek pelatihan web.</p>
+        </div>
+    </footer>
+    <!-- digunakan untuk tombol buat scroll instan ke atas, dengan menyembunyikan posisinya pakai css dulu -->
+    <button id="tombol-scroll-atas" title="Ke Atas">&#8679;</button>
+    <!-- untuk menghubungkan html dengan js biar websitenya makin keren -->
+    <script src="./js/script.js"></script>
+</body>
+</html>
