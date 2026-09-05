@@ -1,0 +1,1242 @@
+/* //////// Global CSS //////// */
+/* html disini berfungsi supaya bagian atas nya saat di scroll tidak melebihi batas */
+html{
+    overscroll-behavior-y: none;
+}
+/* Body disini yaitu halaman pada website nya di atur supaya berwarna dan tidak bisa digeser ke kanan, agar terlihat rapi */
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(255, 209, 117);
+    overflow-x: hidden;
+    max-width: 100%;
+}
+/* main disini berfungsi untuk merapihkan paragraf dengan memberikan space */
+main {
+    padding-left: 10vh;
+    padding-top: 10vh;
+}
+/* untuk menghias tulisan aja biar lebih enak dilihat */
+.teks-kategori-hewan {
+    color: rgb(188, 130, 34);
+    text-transform: uppercase;
+    font-size: 14px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-top: 60px;
+}
+/* agar ada jarak aja untuk baris atas */
+.jarak-atas-ekstra {
+    margin-top: 20px;
+}
+/* untuk merapikan teks juga */
+.teks-paragraf-umum {
+    font-size: 18px;
+    line-height: 1.6;
+}
+/* untuk menghilangkan elemen daftar saat berada di menu login */
+.hilangkan-elemen {
+    display: none !important;
+}
+/* namun jika masuk ke halaman daftar maka akan muncul kembali elemen daftar nya  */
+.tampilkan-elemen {
+    display: block !important;
+}
+/* header ini digunakan untuk tampilan atas sebagai navigasi untuk menghubungkan antar halaman */
+header {
+    background-color: rgb(118, 80, 47);
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid lightgray;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+/* untuk memberikan judul agar lebih rapi aja */
+.logo-header {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+/* untuk menetapkan ukuran pada gambar di header */
+.logo-header img {
+    width: 40px;
+    height: 40px;
+}
+/* untuk mengukur ukuran teks judul pada header */
+#teks-logo-header {
+    font-size: 25px;
+    font-weight: bolder;
+}
+/* untuk sebagai tombol yang keren dan berbentuk seperti hamburger */
+#tombol-hamburger {
+    display: none;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0 10px;
+}
+/* untuk merapikan baris pada navigasi header */
+nav {
+    display: flex;
+    gap: 30px;
+}
+/* untuk menandakan bahwa yang kita pakai di halaman itu sendiri */
+#menu-aktif {
+    color: black;
+    border-bottom: 2px solid rgb(255, 158, 0);
+    padding-bottom: 4px;
+}
+/* untuk membuat tulisan yang awalnya berbentuk link diubah menjadi teks biasa */
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgb(255, 209, 117);
+}
+/* untuk merapikan nama sapaan saat user sudah masuk ke akun nya dan nama sapaan dengan tombol keluar jadi lebih rapi */
+.info-user-header {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+/* untuk menebalkan tulisan di nama sapaan tadi */
+.teks-nama-user {
+    font-weight: bold;
+    color: rgb(188, 130, 34);
+    font-size: 16px;
+}
+/* untuk membentuk navigasi biasa menjadi tombol untuk login */
+#tombol-login-header {
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 8px 25px;
+    font-weight: bold;
+    font-size: 16px;
+    transition: 0.5s;
+}
+/* digunakan untuk cursor jika cursor mengarah ke tombol maka menjadi warna hitam */
+#tombol-login-header:hover {
+    background-color: black;
+    color: rgb(255, 243, 224);
+    transform: translateY(-2px);
+}
+/* ini berfungsi saat di layar hp, pada saat di klik garis tiga di atas kanan maka muncul navigasi nya menjadi rapi ke bawah */
+.menu-navigasi-terbuka {
+    display: flex;
+}
+/* berfungsi untuk tombol agar saat di daftar hewan bisa naik kembali ke atas */
+#tombol-scroll-atas {
+    display: none;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 100;
+    font-size: 22px;
+    border: none;
+    outline: none;
+    background-color: rgb(188, 130, 34);
+    color: rgb(255, 243, 224);
+    cursor: pointer;
+    padding: 12px 18px;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+/* saat kursor mengarah ke tombol maka berubah warna nya menjadi lebih pekat */
+#tombol-scroll-atas:hover {
+    background-color: rgb(118, 80, 47);
+    transform: translateY(-5px);
+}
+/* membuat tampilan footer agar lebih bagus, footer disini yaitu di bagian paling bawah */
+footer {
+    background-color: rgb(118, 80, 47); 
+    color: rgb(255, 243, 224);
+    margin-top: 80px;
+    padding-top: 50px;
+}
+/* untuk merapikan isi dalam footer */
+.wadah-utama-footer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 20px 40px 20px;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+/* untuk mengatur porsi kelebaran kolom logo dan deskripsi di bagian footer */
+.kolom-kiri-footer {
+    flex: 1.5;
+    min-width: 250px;
+}
+/* untuk mengatur kerapian pada logo dan judul pada bagian footer */
+.logo-teks-footer {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Georgia", serif;
+    margin-bottom: 15px;
+    color: rgb(255, 243, 224);
+}
+/* untuk mengukur ukuran gambar supaya gambar yang dihasilkan mencapai ukuran yang diatur */
+.logo-teks-footer img {
+    width: 35px;
+    height: 35px;
+}
+/* untuk mengatur deskripsi pada footer */
+.kolom-kiri-footer p {
+    color: rgb(220, 220, 220);
+    font-size: 15px;
+    line-height: 1.6;
+    margin: 0;
+}
+/* agar lebih rapi ke bawah di bagian navigasi di footernya*/
+.kolom-link-footer {
+    flex: 1;
+    min-width: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+/* agar lebih terlihat mana yang tema dan mana yang sumber linknya biar keliatan lebih rapi */
+.kolom-link-footer h3 {
+    font-family: "Georgia", serif;
+    font-size: 18px;
+    color: rgb(255, 243, 224);
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+/* saat di navigasi nya menjadi tidak terlihat sepeti link biasa yaitu tidak ada garis bawahnya */
+.kolom-link-footer a {
+    color: rgb(220, 220, 220);
+    text-decoration: none;
+    font-size: 15px;
+    transition: 0.3s;
+}
+/* saat kursor mengarah linknya menjadi terlihat perbedaannya dengan sebelumnya*/
+.kolom-link-footer a:hover {
+    color: rgb(255, 158, 0);
+    padding-left: 5px;
+}
+/* untuk bagian footer paling akhir */
+.wadah-hakcipta-footer {
+    border-top: 1px solid rgba(255, 158, 0, 0.2); 
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.1); 
+}
+/* agar teks nya lebih rapi */
+.wadah-hakcipta-footer p {
+    margin: 0;
+    font-size: 14px;
+    color: rgb(200, 200, 200);
+}
+
+/* //////// index css //////// */
+/* untuk merapikan judul pada beranda dengan warna yang unik */
+.sub-judul-beranda {
+    text-transform: uppercase;
+    color: rgb(188, 130, 34);
+    font-size: 15px;
+    letter-spacing: 3px;
+}
+/* untuk menebalkan teks pada judul */
+.judul-beranda {
+    font-size: 50px;
+    font-weight: bolder;
+    padding-right: 80vh;
+}
+/* untuk membuat gambar akan di posisi yang sama dengan judul */
+.judul-beranda img {
+    position: absolute;
+    top: 15vh;
+    right: 90px;
+    height: 60vh;
+    width: 80vh;
+}
+/* untuk memberikan deskripsi pada sebuah website utama */
+.deskripsi-beranda {
+    font-size: 18px;
+    padding-right: 155vh;
+    color: rgb(118, 80, 47);
+}
+/* agar memberikan jarak pada kedua tombol navigasi */
+.wadah-tombol-hero {
+    display: flex;
+    gap: 50px;
+}
+/* untuk membuat tombol yang kedua menjadi lebih keren dan bagus */
+.wadah-tombol-hero a {
+    position: relative;
+    top: 20px;
+    text-decoration: none;
+    color: black;
+    border: 3px solid black;
+    border-radius: 30px;
+    padding: 15px 20px;
+    font-weight: bolder;
+    transition: 0.5s;
+}
+/* agar terlihat berbeda warna dan kolom pertama */
+#tombol-utama-hero {
+    background-color: rgb(188, 130, 34);
+    border: none;
+    display: flex;
+    align-items: center;
+}
+/* saat di hover menjadi lebih baik tampilannya */
+.wadah-tombol-hero a:hover {
+    background-color: black;
+    color: rgb(255, 243, 224);
+    transform: translateY(-2px);
+}
+/* untuk memberikan jumlah dan statistik pada hewan di website tersebut */
+.statistik-platform {
+    background-color: rgb(118, 80, 47);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 10px;
+    margin-top: 13vh;
+    margin-left: -10vh;
+}
+/* berfungsi untuk menengahkan teks pada statistik */
+.item-statistik {
+    text-align: center;
+}
+/* memberikan ketebalan teks pada angka statistik */
+.item-statistik h2 {
+    color: rgb(255, 158, 0);
+    font-size: 55px;
+    margin: 0 0 15px 0;
+    font-family: "Georgia", serif;
+    font-weight: bold;
+}
+/* agar terlihat lebih rapi saat dilihat */
+.item-statistik p {
+    color: rgb(255, 243, 224);
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* untuk memberikan teks alasan dengan warna berbeda */
+.sub-judul-alasan {
+    margin-top: 50px;
+    text-transform: uppercase;
+    color: rgb(188, 130, 34);
+    font-size: 13px;
+}
+/* memberika ketebalan pada teks nya */
+.judul-alasan {
+    margin-top: -10px;
+    font-size: 40px;
+    margin-right: 120vh;
+    font-weight: bolder;
+}
+/* supaya kotak kotak terlihat lebih rapi walau tetap di kecilkan layarnya */
+.kotak-alasan {
+    border-radius: 10px;
+    height: 30vh;
+    width: 35vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: rgb(255, 209, 117);
+    padding: 30px;
+    gap: 10px;
+}
+/* untuk memberikan penanda bahwasanya itu alasan ke berapa */
+.nomor-alasan {
+    font-size: 30px;
+    font-family: monospace;
+    color: rgba(118, 80, 47, 0.7);
+}
+/* memberikan ketebalan pada judul di kotak alasan */
+.judul-kotak-alasan {
+    font-size: 20px;
+    font-weight: bold;
+}
+/* memberikan teks biasa dan space yang sedikit lebar untuk lebih rapi */
+.deskripsi-kotak-alasan {
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+/* agar isi isinya terlihat ke tengah */
+.wadah-kotak-alasan {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    align-items: center;
+}
+/* untuk merapikan di bagian judul kartu hewan */
+.wadah-judul-daftar {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    margin-right: 10vh; 
+    margin-bottom: 20px; 
+}
+/* untuk memberikan border pada navigasi lihat semua hewan */
+.tombol-lihat-semua {
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    border: 3px solid black;
+    border-radius: 50px;
+    padding: 15px;
+    transition: 0.3s;
+}
+/* saat kursor mengarah akan jadi lebih bagus tampilan nya */
+.tombol-lihat-semua:hover {
+    background-color: black;
+    color: rgb(255, 243, 224);
+}
+
+/* bertujuan untuk menata agar semua kartu hewan jadi lebih rapi dihalaman beranda */
+#grid-hewan-beranda {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); 
+    gap: 30px; 
+    margin-right: 10vh; 
+}
+/* menetapkan aturan bahwa ukuran lebar menyatakan 100% sesuai layar */
+#grid-hewan-beranda .kartu-item-hewan {
+    width: 100%; 
+}
+
+/* //////// daftar-hewan css //////// */
+/* untuk memberikan setiap baris pada tombol filter dan inputan pencarian */
+.wadah-filter-pencarian {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-right: 10vh;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* memberikan space antar tombol filter */
+.wadah-tombol-filter {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+/* untuk tampilan awal pada tombol saat sebelum di klik maupun di hover */
+.tombol-filter-kategori {
+    padding: 8px 20px;
+    border: 2px solid rgb(118, 80, 47);
+    border-radius: 30px;
+    background-color: rgb(255, 243, 224);
+    color: rgb(118, 80, 47);
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+/* saat di hover maka tampilan tombol nya berubah */
+.tombol-filter-kategori:hover {
+    background-color: rgb(118, 80, 47);
+    color: rgb(255, 243, 224);
+}
+/* saat sudah di klik maka warna background nya ikut berubah */
+.filter-kategori-aktif {
+    background-color: rgb(118, 80, 47);
+    color: rgb(255, 243, 224);
+}
+/* agar lebar input pencarian nya 100% mengikuti layar */
+.wadah-input-pencarian {
+    width: 100%;
+}
+/* untuk memperbagus tampilan border pada inputan pencarian */
+#input-cari-ras {
+    width: 100%;
+    max-width: 400px;
+    padding: 12px 20px;
+    border: 2px solid lightgray;
+    border-radius: 30px;
+    font-size: 16px;
+    outline: none;
+    transition: 0.3s;
+    box-sizing: border-box;
+    background-color: rgb(255, 243, 224);
+}
+/* lalu saat di mengetik warna pada border inputan nya berubah */
+#input-cari-ras:focus {
+    border-color: rgb(188, 130, 34);
+}
+/* agar kartu hewan terletak lebih rapi dan sejajar */
+.wadah-kartu-hewan {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 30px;
+    margin-right: 10vh;
+}
+/* memnebalkan teks pada judul daftar hewan */
+.judul-daftar-hewan {
+    font-size: 32px;
+    font-family: "Georgia", serif;
+    color: rgb(118, 80, 47);
+    margin-top: 0;
+    font-weight: bold;
+}
+/* untuk merapikan isi dalam kartu hewan nya */
+.kartu-item-hewan {
+    width: 320px;
+    max-width: 100%;
+    border-radius: 15px;
+    background-color: rgb(255, 243, 224);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    transition: 0.4s;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+/* saat di hover kartunya maka akan jadi tampilan yang bagus */
+.kartu-item-hewan:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12);
+}
+/* untuk mengatur posisi dan ukuran gambar pada kartu */
+.wadah-gambar-kartu {
+    position: relative;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+/* saat di gambarnya di atur agar kelihatan lebih rapi */
+.gambar-kartu {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    border-radius: 5px;
+}
+/* untuk mengatur tampilan kartu yaitu tersedia atau tidaknya hewan tersebut */
+.badge-status-hewan {
+    position: absolute;
+    top: 20px;
+    right: -10px; 
+    background-color: rgb(255, 158, 0); 
+    color: rgb(255, 243, 224);
+    font-size: 13px;
+    font-weight: bold;
+    padding: 6px 15px;
+    border-radius: 20px;
+    letter-spacing: 1px;
+}
+/* mengubah warna background nya jika hewan sudah diadopsi */
+.badge-status-diadopsi {
+    background-color: gray;
+}
+/* untuk merapikan area teks dan tombol di bagian bawah kartu */
+.wadah-info-kartu {
+    background-color: rgb(255, 243, 224); 
+    padding: 25px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+/* sebagai nama hewan yang di berikan */
+.nama-hewan-kartu {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: "Georgia", serif; 
+    color: black;
+}
+/* membuat teks menjadi teks biasa dengan warna yang berbeda */
+.deskripsi-hewan-kartu {
+    font-size: 15px;
+    color: rgb(110, 110, 110);
+}
+/* untuk mengatur tombol pada kartu hewan */
+.tombol-detail-kartu {
+    display: inline-block;
+    margin-top: auto;
+    padding: 10px 25px;
+    border: 2px solid black;
+    border-radius: 30px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+    width: max-content; 
+    transition: 0.3s;
+}
+/* saat kursor mengarah tombol maka menjadi warna hitam background nya */
+.tombol-detail-kartu:hover {
+    background-color: black;
+    color: rgb(255, 243, 224);
+}
+/* untuk mengatur latar belakang dari lihat detail */
+.latar-popup-detail {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 200;
+    overscroll-behavior: contain;
+}
+/* untuk kotak saat di klik lihat detail pada kartu hewan */
+.wadah-popup-detail {
+    background-color: rgb(255, 209, 117);
+    padding: 30px;
+    border-radius: 15px;
+    width: 80%;
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto; 
+    overflow-x: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    overscroll-behavior: contain;
+}
+/* untuk membuat tanda jika ingin keluar dari lihat detail hewan */
+.tombol-tutup-popup {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #555;
+    cursor: pointer;
+    transition: 0.3s;
+}
+/* saat di hover maka warna nya akan berubah */
+.tombol-tutup-popup:hover {
+    color: red;
+}
+/* untuk mengatur ukuran pada gambar hewan di lihat detail */
+.gambar-popup-detail {
+    width: 100%;
+    height: 300px;
+    object-fit: contain; 
+    background-color: rgb(255, 209, 117);
+    border-radius: 10px;
+}
+/* mengatur teks pada lihat detail hewan */
+.wadah-info-popup p {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333;
+    line-height: 1.5;
+    border-bottom: 1px solid rgb(188, 130, 34);
+    padding-bottom: 8px;
+}
+/* elemen yang dipakai tag strong maka diubah akan diubah warnanya */
+.wadah-info-popup p strong {
+    color: rgb(118, 80, 47);
+}
+/* mengatur teks nama pada hewan */
+.judul-nama-popup {
+    margin-top: 0;
+    color: rgb(188, 130, 34);
+    font-family: "Georgia", serif;
+}
+/* membuat tombol apa ingin diadopsi apa tidak */
+.tombol-adopsi-popup {
+    display: block;
+    background-color: rgb(188, 130, 34);
+    color: rgb(255, 243, 224);
+    text-align: center;
+    padding: 12px 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    letter-spacing: 1px;
+    transition: 0.3s;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+/* saat di hover tombol nya maka memiliki warna berbeda dan posisi nya juga ikut berubah */
+.tombol-adopsi-popup:hover {
+    background-color: rgb(118, 80, 47);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+/* membuat tombol jika sudah diadopsi maka warna nya dan kursor nya menunjukan bahwa tombol tersebut tidak bisa di klik */
+.tombol-adopsi-nonaktif {
+    background-color: gray;
+    cursor: not-allowed;
+    box-shadow: none;
+}
+/* saat di hover warnanya ikut berubah */
+.tombol-adopsi-nonaktif:hover {
+    background-color: gray;
+    transform: none;
+}
+
+/* //////// login dan form-adopsi css //////// */
+/* membuat kotak form untuk login akun */
+.wadah-utama-form {
+    background-color: rgb(255, 243, 224);
+    width: 90%;
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+    text-align: center;
+}
+/* menebalkan teks judul pada login */
+.judul-form-auth {
+    color: rgb(118, 80, 47);
+    font-family: "Georgia", serif;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+/* membuat teks biasa namun warna nya saja yang diubah */
+.deskripsi-form-auth {
+    color: gray;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+/* membuat inputan dan nama inputan menjadi sebelah kiri */
+.wadah-input-form {
+    text-align: left;
+    margin-bottom: 20px;
+}
+/* membuat border pada inputan menjadi tebal */
+.wadah-input-form label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    color: #333;
+    font-size: 14px;
+}
+/* membuat border pada inputan sebelum di klik menjadi border biasa */
+.wadah-input-form input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    box-sizing: border-box; 
+    font-size: 14px;
+    background-color: rgb(255, 243, 224);
+}
+/* membuat kotak pada nama hewan menjadi kursor lingkaran merah yang berarti tidak bisa di ganti */
+#input-nama-hewan-adopsi {
+    background-color: rgb(255, 209, 117);
+    cursor: not-allowed;
+}
+/* membuat tombol menjadi lebih bagus */
+.tombol-kirim-form {
+    width: 100%;
+    background-color: rgb(188, 130, 34);
+    color: rgb(255, 243, 224);
+    padding: 15px;
+    border: none;
+    border-radius: 30px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: 10px;
+}
+/* saat di hover tombol kirim nya warna nya ikut berubah */
+.tombol-kirim-form:hover {
+    background-color: rgb(118, 80, 47);
+}
+/* untuk menata tampilan link navigasi bolak-balik antara form masuk dan form daftar */
+.teks-tautan-auth {
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
+/* mempercantik tulisan pada link di halaman login */
+.teks-tautan-auth a {
+    color: rgb(188, 130, 34);
+    text-decoration: none;
+    font-weight: bold;
+}
+/* saat di hover maka muncul garis bawah dan warnanya pun ikut berubah */
+.teks-tautan-auth a:hover {
+    text-decoration: underline;
+    color: rgb(118, 80, 47);
+}
+/* untuk menyembunyikan kotak registrasi agar tidak muncul */
+#wadah-form-registrasi {
+    display: none;
+}
+
+/* //////// riwayat dan admin css //////// */
+/* saat seluruh isi tag main memberikan space pada bagian kanan sebesar 10 vh */
+.main-konten-admin {
+    padding-right: 10vh;
+}
+/* untuk merapikan tata letak seluruh daftar riwayat adopsi pengguna agar tersusun teratur, bersih, dan nyaman dibaca */
+.wadah-daftar-riwayat {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+/* untuk membuat riwayat pengajuan jadi lebih rapi */
+.kartu-item-riwayat {
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 243, 224);
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    border-left: 5px solid rgb(188, 130, 34);
+}
+/* mengatur ukuran gambar hewan pada riwayat pengajuan adposi agar lebih rapi */
+.gambar-hewan-riwayat {
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    object-fit: cover;
+    margin-right: 20px;
+}
+/* menghias tulisan judul pada riwayat pengajuan agar lebih keren */
+.wadah-info-riwayat h3 {
+    margin: 0 0 5px 0;
+    color: rgb(118, 80, 47);
+    font-family: "Georgia", serif;
+}
+/* membuat deskripsi menjadi tulisan biasa namun warnanya saja yang berbeda */
+.wadah-info-riwayat p {
+    margin: 0;
+    color: gray;
+    font-size: 14px;
+}
+/* sebagai area elastis di tengah kartu riwayat yang merentang mengisi ruang kosong */
+.info-riwayat-melebar {
+    flex-grow: 1;
+}
+/* membuat tulisan menjadi lebih keren saat pesan sedang kosong */
+.teks-pesan-kosong {
+    color: gray;
+    font-style: italic;
+    font-size: 16px;
+}
+/* untuk mengambil alih teks pesan kosong dan memaksanya untuk tampil presisi di tengah-tengah ruang yang tersedia */
+.teks-pesan-kosong-tengah {
+    width: 100%;
+    text-align: center;
+    color: gray;
+    font-style: italic;
+    font-size: 16px;
+}
+/* menetapkan jika pesanan nya ditolak maka tulisan akan berubah menjadi merah */
+.teks-pesan-ditolak {
+    color: red;
+}
+/* namun jika diterima maka tulisan nya berubah menjadi hijau */
+.teks-status-hijau {
+    color: green !important;
+    font-weight: bold;
+    margin-top: 5px;
+}
+/* jika ditolak maka warnanya akan bertambah pekat merahnya */
+.teks-status-merah {
+    color: red !important;
+    font-weight: bold;
+    margin-top: 5px;
+}
+/* untuk menandakan bahwa pesanan masih dalam pengajuan proses */
+.teks-status-kuning {
+    color: rgb(188, 130, 34) !important;
+    font-weight: bold;
+    margin-top: 5px;
+}
+/* untuk merapikan dan mengelompokkan tombol-tombol aksi khusus admin agar terlihat teratur */
+.wadah-aksi-admin {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+/* menandakan untuk tombol jika ingin diterima admin ada tombol berwarna hijau */
+.tombol-setuju-admin {
+    background-color: green;
+    color: rgb(255, 243, 224);
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    flex: 1;
+}
+/* namun jika admin ingin menolak maka ada tombol tolak dengan border berwarna merah */
+.tombol-tolak-admin {
+    background-color: red;
+    color: rgb(255, 243, 224);
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    flex: 1;
+}
+/* untuk mengubah tampilan tombol aksi menjadi pasif secara visual sekaligus mematikan fungsinya jika hewan yang dipesan oleh 2 user memiliki pesanan yang sama*/
+.tombol-aksi-nonaktif {
+    background-color: gray;
+    cursor: not-allowed;
+    opacity: 0.6;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: rgb(255, 243, 224);
+    flex: 1;
+}
+
+/* //////// kontak css //////// */
+/* untuk merapikan dan mempercantik link komunikasi */
+.tautan-kontak {
+    color: inherit;
+    text-decoration: none;
+}
+
+/* //////// Media Query Mobile //////// */
+@media (max-width: 600px) {
+    /* header ini diatur ulang agar tampilannya menyesuaikan layar hp dengan susunan yang rapi */
+    header {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        padding: 15px;
+    }
+    /* untuk mengatur posisi logo di bagian header agar proporsional saat di hp */
+    .logo-header {
+        order: 1;
+        max-width: 80%;
+    }
+    /* untuk mengecilkan ukuran teks logo header agar pas dengan layar kecil */
+    #teks-logo-header {
+        font-size: 18px;
+    }
+    /* untuk memunculkan tombol hamburger saat berada di tampilan hp */
+    #tombol-hamburger {
+        display: block;
+        order: 2;
+        margin-left: auto;
+        margin-right: 0;
+        padding: 5px;
+    }
+    /* untuk mengubah menu navigasi menjadi bentuk ke bawah saat dibuka di hp */
+    nav {
+        display: none;
+        order: 3;
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 1px solid lightgray;
+    }
+    /* untuk menyesuaikan ukuran teks link navigasi pada layar hp */
+    nav a {
+        font-size: 16px;
+        width: 100%;
+        text-align: left;
+    }
+    /* untuk menyembunyikan tombol login header di awal sebelum menu dibuka di hp */
+    #tombol-login-header {
+        display: none;
+        order: 4;
+        margin-top: 15px;
+        width: max-content;
+        padding: 6px 15px;
+        font-size: 14px;
+    }
+    /* untuk merapikan info sapaan user pada header ketika diakses via hp */
+    .info-user-header {
+        display: none;
+        order: 4;
+        width: 100%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 1px dashed lightgray;
+    }
+    /* untuk mengatur jarak tombol login khusus di dalam info user header versi hp */
+    .info-user-header #tombol-login-header {
+        margin-top: 0;
+    }
+    /* untuk mengecilkan sedikit ukuran teks nama sapaan user di hp */
+    .teks-nama-user {
+        font-size: 14px;
+    }
+    /* untuk menampilkan kembali menu navigasi saat tombol hamburger diklik di hp */
+    header.header-menu-terbuka nav {
+        display: flex;
+    }
+    /* untuk memunculkan tombol login header ketika menu terbuka di hp */
+    header.header-menu-terbuka #tombol-login-header {
+        display: inline-block;
+    }
+    /* untuk memunculkan info user header ketika menu terbuka di hp */
+    header.header-menu-terbuka .info-user-header {
+        display: flex;
+    }
+    /* untuk menyesuaikan jarak padding pada konten utama saat di layar hp */
+    main {
+        padding: 20px;
+    }
+    /* untuk menyesuaikan padding konten khusus admin pada layar hp */
+    .main-konten-admin {
+        padding: 20px;
+    }
+    /* untuk mengatur ukuran sub judul beranda agar pas di hp */
+    .sub-judul-beranda {
+        font-size: 11px;
+        letter-spacing: 2px;
+        margin-bottom: 8px;
+    }
+    /* untuk menyesuaikan ukuran judul besar di beranda saat di hp */
+    .judul-beranda {
+        font-size: 26px;
+        line-height: 1.2;
+        padding-right: 0;
+    }
+    /* untuk mengatur posisi dan ukuran gambar beranda supaya tampil bagus di hp */
+    .judul-beranda img {
+        position: relative;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+        display: block;
+        margin: 20px auto 10px auto;
+    }
+    /* untuk menyesuaikan ukuran teks deskripsi beranda pada layar hp */
+    .deskripsi-beranda {
+        font-size: 14px;
+        line-height: 1.5;
+        margin-top: 10px;
+        padding-right: 0;
+    }
+    /* untuk merapikan wadah filter dan pencarian agar pas di hp */
+    .wadah-filter-pencarian {
+        margin-top: 15px;
+        margin-bottom: 15px;
+        margin-right: 0;
+    }
+    /* untuk menyesuaikan ukuran tombol filter kategori di layar hp */
+    .tombol-filter-kategori {
+        padding: 6px 15px;
+        font-size: 13px;
+    }
+    /* untuk membuat input pencarian memenuhi layar hp */
+    #input-cari-ras {
+        max-width: 100%;
+        padding: 10px 15px;
+        font-size: 14px;
+    }
+    /* untuk mengecilkan ukuran teks paragraf umum agar nyaman dibaca di hp */
+    .teks-paragraf-umum {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    /* untuk mengatur tombol hero agar tersusun rapi berdampingan di hp */
+    .wadah-tombol-hero {
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 10px;
+    }
+    /* untuk menyesuaikan ukuran tombol hero di layar hp */
+    .wadah-tombol-hero a {
+        flex: 1;
+        text-align: center;
+        font-size: 13px;
+        padding: 12px 5px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    /* untuk mengatur kotak statistik platform agar sejajar dan rapi di hp */
+    .statistik-platform {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        padding: 15px 5px;
+        gap: 5px;
+        margin-left: 0;
+    }
+    /* untuk mengatur lebar item statistik agar pas dibagi rata di hp */
+    .item-statistik {
+        width: 25%;
+        margin-bottom: 0;
+        flex: 1;
+    }
+    /* untuk mengecilkan ukuran angka statistik agar tidak terlalu besar di hp */
+    .item-statistik h2 {
+        font-size: 22px;
+        margin-bottom: 2px;
+    }
+    /* untuk mengecilkan teks keterangan statistik di layar hp */
+    .item-statistik p {
+        font-size: 10px;
+        line-height: 1.2;
+    }
+    /* untuk menyesuaikan ukuran judul alasan di layar hp */
+    .judul-alasan {
+        margin-right: 0;
+        font-size: 28px;
+    }
+    /* untuk menengahkan kotak-kotak alasan di hp */
+    .wadah-kotak-alasan {
+        justify-content: center;
+    }
+    /* untuk membuat kotak alasan memenuhi lebar layar hp */
+    .kotak-alasan {
+        width: 100%;
+        height: auto;
+    }
+    /* untuk mengubah grid hewan di beranda menjadi 2 kolom di layar hp */
+    #grid-hewan-beranda {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        margin-right: 0;
+    }
+    /* untuk merapikan jarak antar kartu hewan di hp */
+    .wadah-kartu-hewan {
+        gap: 15px;
+        margin-right: 0;
+    }
+    /* untuk mengatur lebar kartu item hewan agar muat 2 kolom di hp */
+    .kartu-item-hewan {
+        width: calc(50% - 10px);
+    }
+    /* untuk menyesuaikan tinggi wadah gambar pada kartu di hp */
+    .wadah-gambar-kartu {
+        height: 120px;
+        padding: 15px;
+    }
+    /* untuk mengatur jarak bagian info kartu di layar hp */
+    .wadah-info-kartu {
+        padding: 15px;
+        gap: 8px;
+    }
+    /* untuk mengecilkan ukuran teks nama hewan pada kartu di hp */
+    .nama-hewan-kartu {
+        font-size: 18px;
+    }
+    /* untuk menyesuaikan ukuran teks deskripsi kartu hewan di hp */
+    .deskripsi-hewan-kartu {
+        font-size: 12px;
+    }
+    /* untuk menyesuaikan ukuran tombol detail pada kartu di hp */
+    .tombol-detail-kartu {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+    /* untuk mengecilkan ukuran badge status hewan di layar hp */
+    .badge-status-hewan {
+        font-size: 10px;
+        padding: 4px 10px;
+    }
+    /* untuk mengatur lebar wadah utama form agar pas di layar hp */
+    .wadah-utama-form {
+        width: 90%;
+        padding: 20px;
+    }
+    /* untuk mengubah tata letak kartu riwayat menjadi ke bawah (kolom) di hp */
+    .kartu-item-riwayat {
+        flex-direction: column;
+        text-align: center;
+    }
+    /* untuk merapikan posisi gambar hewan di riwayat versi hp */
+    .gambar-hewan-riwayat {
+        margin-right: 0;
+        margin-bottom: 15px;
+    }
+    /* untuk merapikan wadah tombol aksi admin agar tersusun baik di hp */
+    .wadah-aksi-admin {
+        width: 100%;
+        margin-top: 15px;
+        flex-direction: row;
+        gap: 10px;
+    }
+    /* untuk menyesuaikan ukuran tombol aksi admin di layar hp */
+    .tombol-setuju-admin, .tombol-tolak-admin, .tombol-aksi-nonaktif {
+        padding: 10px 5px;
+        font-size: 14px;
+        flex: 1;
+    }
+    /* untuk mengubah footer menjadi tata letak ke bawah di layar hp */
+    .wadah-utama-footer {
+        flex-direction: column;
+        text-align: left;
+        gap: 25px;
+    }
+    /* untuk merapikan posisi logo teks footer di hp */
+    .logo-teks-footer {
+        justify-content: flex-start;
+    }
+    /* untuk menyesuaikan ukuran wadah popup detail agar pas di layar hp */
+    .wadah-popup-detail {
+        width: 90%;
+        padding: 15px;
+        gap: 10px;
+    }
+    /* untuk menyesuaikan tinggi gambar pada popup detail di hp */
+    .gambar-popup-detail {
+        height: 180px;
+    }
+    /* untuk mengecilkan ukuran judul nama pada popup di hp */
+    .judul-nama-popup {
+        font-size: 20px;
+    }
+    /* untuk menyesuaikan ukuran teks dan jarak pada info popup di hp */
+    .wadah-info-popup p {
+        font-size: 13px;
+        margin-bottom: 5px;
+        padding-bottom: 5px;
+    }
+    /* untuk menyesuaikan ukuran tombol adopsi pada popup di hp */
+    .tombol-adopsi-popup {
+        font-size: 14px;
+        padding: 10px;
+        margin-top: 10px;
+    }
+    /* untuk menyesuaikan posisi tombol tutup popup di layar hp */
+    .tombol-tutup-popup {
+        top: 5px;
+        right: 15px;
+        font-size: 30px;
+    }
+    /* untuk merapikan judul daftar pada layar hp */
+    .wadah-judul-daftar {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        margin-right: 0;
+    }
+    /* untuk mengatur posisi tombol scroll ke atas agar tidak menutupi konten di hp */
+    #tombol-scroll-atas {
+        bottom: 20px;
+        right: 20px;
+        font-size: 18px;
+        padding: 10px 15px;
+    }
+}
